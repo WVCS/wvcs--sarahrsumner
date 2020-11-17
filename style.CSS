@@ -1,0 +1,43 @@
+body { 
+  background-color: black;
+     }
+
+h1 {
+  color: lime; 
+  text-align: center;
+  font-size: 50px;
+  line-height: 150px;
+   }  
+  }
+ol {
+  list-style-type: upper-roman;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  }
+
+ul {
+  list-style-type: none;
+  color: gold;
+  position: fixed;
+  background-color: lime;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+li.navbar {
+  display: inline;
+  padding: 10px;
+  width: 200px;
+margin: 5px;
+  top: 0;
+  left: 0;
+  font-size: 200%;
+}
+
+li.navbar a:hover {
+  background-color: white;
+}
